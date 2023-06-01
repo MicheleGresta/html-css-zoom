@@ -1,0 +1,31 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
+.flex{display: flex;}
+.block{display: block;}
+.wrap{flex-wrap: wrap;}
+.gap{gap: 1rem;}
+.center-flex{
+    justify-content: center;
+    align-items: center;
+}
+.center{text-align: center;}
+.size{font-size: 2rem;}
+/* ------------------------------------ */
+/* FOOTER */
+.white-elements{color: white;
+    justify-content: space-between;    
+}
+.contenitore{width: 100%;
+    background-color: rgb(36, 36, 36);   
+    padding:1rem;
+}
+.end-meeting{
+    color: red;
+}
+.blocco3{
+    text-align: center;
+    margin:1.5rem;
+}
+.green{color: rgb(48, 219, 48);}
